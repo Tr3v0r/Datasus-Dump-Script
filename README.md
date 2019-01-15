@@ -2,4 +2,4 @@
 <p>
 Script para exploração de uma falha no banco de dados do Sistema Único de Saúde (SUS) que permite o dump do mesmo.
 <p>
-<p><img width="900" height="900" src="https://i.imgur.com/cf8E78V.png"></p>
+<p><img width="900" height="500" src="https://i.imgur.com/cf8E78V.png"></p>
