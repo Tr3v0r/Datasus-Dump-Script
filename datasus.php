@@ -1,4 +1,4 @@
-	<?php
+<?php
 	
 /*
 Desenvolvido por Matheus Drummond Barbosa
